@@ -1,23 +1,24 @@
 # Blog
-http://feeds.feedburner.com/playpc
-http://feeds.feedburner.com/ruanyifeng
-https://rsshub.app/galaxylab
-https://rsshub.app/iyouport/article
-https://rsshub.app/leemeng
-https://sspai.com/feed
+https://acoup.blog/feed/
+#http://feeds.feedburner.com/playpc
+#http://feeds.feedburner.com/ruanyifeng
+#https://rsshub.app/galaxylab
+#https://rsshub.app/iyouport/article
+#https://rsshub.app/leemeng
+#https://sspai.com/feed
 
 # Game
-https://gamejilu.com/rss/
-https://www.4gamers.com.tw/rss/latest-news
+#https://gamejilu.com/rss/
+#https://www.4gamers.com.tw/rss/latest-news
 
 # News
-https://rsshub.app/github/issue/headllines/hackernews-daily
-https://www.ithome.com.tw/rss
-https://openingsource.org/feed/
+#https://rsshub.app/github/issue/headllines/hackernews-daily
+#https://www.ithome.com.tw/rss
+#https://openingsource.org/feed/
 
 # Software
-http://feeds.feedburner.com/freegroup
-https://feeds.appinn.com/appinns/
+#http://feeds.feedburner.com/freegroup
+#https://feeds.appinn.com/appinns/
 
 # Twitter
 # https://rsshub.app/twitter/user/quiztime
