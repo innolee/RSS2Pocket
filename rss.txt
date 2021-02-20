@@ -1,5 +1,6 @@
 # Blog
 https://acoup.blog/feed/
+http://www.economist.com/feeds/print-sections/77/business.xml
 #http://feeds.feedburner.com/playpc
 #http://feeds.feedburner.com/ruanyifeng
 #https://rsshub.app/galaxylab
@@ -24,6 +25,6 @@ https://acoup.blog/feed/
 # https://rsshub.app/twitter/user/quiztime
 
 # Test for wrong url
-https://example.com
-https://a.c
-apple
+#https://example.com
+#https://a.c
+#apple
